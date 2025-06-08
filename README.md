@@ -1,6 +1,7 @@
 # ✨ PixelMagic - Transform Your Photos Like Magic!
 
 > *Turn your everyday photos into stunning masterpieces with the power of AI* 🎨
+<img width="513" alt="Screenshot 2025-06-08 at 7 05 38 PM" src="https://github.com/user-attachments/assets/f7211aff-2fc5-428f-b1ba-c1005932d292" />
 
 ## 🚀 What's This All About?
 
